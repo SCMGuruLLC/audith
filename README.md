@@ -1,2 +1,2 @@
 # audith
-Audit this, a host auditing program
+Audit this, a configuration auditing program
